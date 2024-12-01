@@ -13,7 +13,7 @@ In your GitHub repo, create the follow secrets with the specified values.
 
 (This was generated using the command `az ad sp create-for-rbac --name dsba6190devops` and then assigning the service principal as a Contributor the the Subscription.)
 
-## Getting Started with Terraform
+## Getting Started with Terraform hasmitha
 
 Make your `main.tf`, `backend.tf`, and `variables.tf` files.
 
